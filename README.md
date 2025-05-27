@@ -19,7 +19,7 @@ This is my personal portfolio website to showcase my  skills. Built with the aim
 
 ## 🌐 Live Demo
 
-Check out the live version here: [https://github.com/AKA-027/Portfolio](https://github.com/AKA-027/Portfolio)
+Check out the live version here: [https://github.com/AKA-027/Portfolio](https://github.com/AKA-027/Portfolio.git))
 
 ## 📬 Contact
 
